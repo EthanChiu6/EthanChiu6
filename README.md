@@ -1,8 +1,9 @@
-## Hellooo 👋
-- (Past) Competitive programmer who codes in c++
-- Decent amount of experience in python AI projects
-- Working on website frontend/backend projects (HTML, supabase, etc)
-- Happy to collaborate or answer any questions :)))
+## Hello!! I'm EthanC 👋
+- 💻 (Past) Competitive programmer who codes in c++ 
+- 🐍 Some experience with python AI projects
+- 🌱 Learning and working on website frontend/backend projects (HTML, supabase, etc)
+- 😃 Enjoys gaming, volleyball, and football
+- 🫵 Happy to collaborate or answer any questions :)))
 - Fun fact: Pikachu weights about 6 kg
 
 - My contact info:
