@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hellooo 👋
 
 <!--
 **EthanChiu6/EthanChiu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- (Past) Competitive programmer who codes in c++
+- Decent amount of experience in python AI projects
+- Working on website frontend/backend projects (HTML, supabase, etc)
+- Happy to collaborate or answer any questions :)))
+- Fun fact: Pikachu weights about 6 kg
+
+- My contact info:
+- email: ethanchiu2008@gmail.com
+- discord: pokedra_ec
 -->
